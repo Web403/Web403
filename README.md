@@ -1,28 +1,27 @@
-<h1 align="center">Hi 👋, I'm Omkar Sonawane</h1>
-<h3 align="center">A passionate java and Web developer from India</h3>
+<h2 align="left">
+ <abc>
+  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/130058150/283726867-e590e659-a89e-4284-ab43-5c265248f38b.png"></img>
+  <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Java+Developer;Open+Source+Enthusiast"></img>
+  <img src="https://komarev.com/ghpvc/?username=Web403"></img>
+ </abc>
+  <h2 align="left">👨🏻‍💻 About Me:</h2>
+<img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/130058150/283733756-9801bb02-ed86-4435-9e54-9a2f83f51bd7.gif" width="180"></img>
+- :computer: I'm a Web Developer, currently exploring Web3 Space
+- :hourglass_flowing_sand: Exploring Various Technology
+- :rocket: Always ready to collaborate for Dev Experiments
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=web403&label=Profile%20views&color=0e75b6&style=flat" alt="web403" /> </p>
+</h2> 
+<div id="badges" align = "center">
+<h2 align="left">:heart: Let's get connected:</h2>
 
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://twitter.com/omkarsonawane23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="omkarsonawane23" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/omkar-sonawane-0663a0257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="omkar-sonawane-0663a0257" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/omkarsonawane23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="omkarsonawane23" height="30" width="40" /></a>
-</p>
-
-<div align="center">
-  <img hight="300" width="800" alt="GIF" align="center" src="https://github.com/Web403/Web403/assets/130058150/8f24f4ef-145e-4cee-bf56-63d4dffd9fd4"></img>
-</div>
-
-
-<h3 align="center">Languages and Tools:</h3>
+  <a href="https://www.linkedin.com/in/omkar-sonawane-0663a0257/">
+    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/omkarsonawane23">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+  
+<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
 <p align="center"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
-
-<h3 align="center">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/OmkarSonawane"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="OmkarSonawane" /></a></p><br><br>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=web403&show_icons=true&locale=en&layout=compact" alt="web403" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=web403&" alt="web403" /></p>
