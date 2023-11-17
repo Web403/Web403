@@ -6,11 +6,11 @@
  </abc>
   <h2 align="left">👨🏻‍💻 About Me:</h2>
 <img align="right" src="https://github-production-user-asset-6210df.s3.amazonaws.com/130058150/283733756-9801bb02-ed86-4435-9e54-9a2f83f51bd7.gif" width="180"></img>
-- :computer: I'm a Web Developer, currently exploring Web3 Space
-- :hourglass_flowing_sand: Exploring Various Technology
-- :rocket: Always ready to collaborate for Dev Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+<br> :computer: I'm a Web Developer, currently exploring Web3 Space</br>
+<br> :hourglass_flowing_sand: Exploring Various Technology</br>
+<br> :rocket: Always ready to collaborate for Dev Experiments</br>
+<br> :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"</br>
+<br> :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking</br>
 
 </h2> 
 <div id="badges" align = "center">
