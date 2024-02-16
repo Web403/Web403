@@ -1,7 +1,7 @@
 <h2 align="left">
  <abc>
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/130058150/283726867-e590e659-a89e-4284-ab43-5c265248f38b.png"></img>
-  <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;Java+Developer;Open+Source+Enthusiast"></img>
+  <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=F70000&center=true&vCenter=true&random=false&width=435&lines=Web+Developer;MERN+Stack+Developer;Java+Developer;Open+Source+Enthusiast"></img>
   <img src="https://komarev.com/ghpvc/?username=Web403"></img>
  </abc>
   <h2 align="left">👨🏻‍💻 About Me:</h2>
