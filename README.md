@@ -10,7 +10,7 @@
 <br> :hourglass_flowing_sand: Exploring Various Technology</br>
 <br> :rocket: Always ready to collaborate for Dev Experiments</br>
 <br> :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"</br>
-<br> :zap: Fun fact: I love to attend Hackathons for learning & Meetups for Networking</br>
+<br> :zap: I love to attend Hackathons for learning & Meetups for Networking</br>
 
 </h2> 
 <div id="badges" align = "center">
